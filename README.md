@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [GoToCampus,WebHR](https://www.gotocampus.com, https://web.hr/)
 
-- 🌱 I’m currently learning **Laravel, NodeJS, React & React Native**
+- 🌱 I’m currently learning **Laravel, NodeJS, React**
 
 - 👨‍💻 All of my projects are available at [http://usamaussmeeportfolio.000webhostapp.com/](http://usamaussmeeportfolio.000webhostapp.com/)
 
