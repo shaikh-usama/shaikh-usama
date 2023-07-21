@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osama Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Usama Shaikh</h1>
 <h3 align="center">A passionate Frontend & Backend developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://usamaussmeeportfolio.000webhostapp.com/](http://usamaussmeeportfolio.000webhostapp.com/)
 
-- 💬 Ask me about **Php, API, Frontend Develpment**
+- 💬 Ask me about **Php, API, Frontend Development**
 
 - 📫 How to reach me **usamaussmee222@gmail.com**
 
