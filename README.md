@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Frontend & Backend developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Usama+Shaikh" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [GoToCampus,WebHR](https://www.gotocampus.com, https://web.hr/)
 
