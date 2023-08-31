@@ -20,6 +20,7 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikh-usama&theme=github">
 </div>
+<br>
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
