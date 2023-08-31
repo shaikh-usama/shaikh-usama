@@ -29,7 +29,9 @@
 </a>  
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikh-usama&theme=github">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikh-usama&theme=github">
+</div>
 
 
 
