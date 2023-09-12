@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Laravel, NodeJS, React**
 
-- 👨‍💻 All of my projects are available at [http://usamaussmeeportfolio.000webhostapp.com/](http://usamaussmeeportfolio.000webhostapp.com/)
-
 - 💬 Ask me about **Php, API, Backend Development**
 
 - 📫 How to reach me **usamaussmee222@gmail.com**
