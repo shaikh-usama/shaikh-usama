@@ -20,12 +20,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1zLKLLXKmI6GJWL5YZ/giphy.gif" width="800" height="10" alt="Divider">
-</p>
-
----
-
 ## 🚀 Skills & Technologies
 
 ### 🌐 **Programming Languages**
