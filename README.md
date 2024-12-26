@@ -61,5 +61,6 @@
 </div>
 
 <p align="center">
+  <p>Until next time, keep coding and stay awesome! </p>
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" height="50" alt="Footer Divider">
 </p>
