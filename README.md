@@ -61,5 +61,5 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="800" height="10" alt="Footer Divider">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" height="100" alt="Footer Divider">
 </p>
