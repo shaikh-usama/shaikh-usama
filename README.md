@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDExMDE1YzMxZDk0NTlhMWNmNzExZTgxMzQ3Nzc4NGVmZGYzNzg2YSZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Backend Coding GIF">
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider GIF">
+  <img src="https://media.giphy.com/media/1zLKLLXKmI6GJWL5YZ/giphy.gif" width="800" height="10" alt="Divider">
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" alt="Developer Animation">
+  <img src="https://media.giphy.com/media/l41lVz4hED66kFZhC/giphy.gif" width="600" alt="Working Hard Animation">
 </p>
 
 ---
@@ -72,5 +72,5 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Divider">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="800" height="10" alt="Footer Divider">
 </p>
