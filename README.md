@@ -60,6 +60,8 @@
   </a>
 </div>
 
+---
+
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
   <span>Until next time, keep coding and stay awesome!&nbsp;</span>
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" height="50" alt="Hand Waving">
