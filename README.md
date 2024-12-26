@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lVz4hED66kFZhC/giphy.gif" width="600" alt="Working Hard Animation">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl2MWZzcWh3cG5rZGYzempieTc5ZmV4azdsajRpZmU4NTluNG44OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif" width="600" alt="Working Hard Animation">
 </p>
 
 ---
