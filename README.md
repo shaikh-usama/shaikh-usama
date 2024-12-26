@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&width=500&lines=Hi+There!+👋;I'm+Usama+Shaikh.;Backend+PHP+Developer" alt="Typing Animation">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDExMDE1YzMxZDk0NTlhMWNmNzExZTgxMzQ3Nzc4NGVmZGYzNzg2YSZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Backend Coding GIF">
-</p>
+<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ---
 
