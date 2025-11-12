@@ -2,19 +2,11 @@
 <!-- Designed with modern UI/UX principles: Clean layout, animations, responsive elements, and engaging visuals -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D4FF&width=600&lines=Hello+World!+🌍;I'm+Usama+Shaikh.;Backend+PHP+Developer;Crafting+Scalable+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&width=500&lines=Hi+There!+👋;I'm+Usama+Shaikh.;Backend+PHP+Developer" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Backend Developer Animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shaikh-usama.shaikh-usama" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shaikh-usama?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/shaikh-usama?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
@@ -35,19 +27,6 @@
 - 👯 **Collaborations:** Open to backend projects involving API development, microservices, and cloud integrations.
 - 💬 **Tech Talks:** Ask me about PHP, Laravel, Docker, Node.js, database optimization, or turning slow APIs into speed demons!
 - ⚡ **Fun Fact:** I turn coffee ☕ into code and slow systems into blazing-fast architectures. Also, I can debug code while juggling – metaphorically, of course!
-
----
-
-## 📊 GitHub Stats & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-usama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-usama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-usama&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak" width="80%" />
-</div>
 
 ---
 
