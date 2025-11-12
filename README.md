@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Coding GIF" style="border-radius: 50%; border: 3px solid #00D4FF;" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
 <p align="center">
