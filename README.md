@@ -87,10 +87,7 @@
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Waving Hand" />
   <p><strong>Thanks for visiting! Let's build something amazing together. 🚀</strong></p>
   <p><em>Keep coding, stay curious, and never stop learning!</em></p>
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" height="50" alt="Hand Waving">
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
-</div>
