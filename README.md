@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&width=500&lines=Hi+There+%F0%9F%91%8B+I'm+Usama+Shaikh+Backend+Developer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&width=500&lines=Hi+There!+👋;I'm+Usama+Shaikh.;Backend+PHP+Developer" alt="Typing Animation" />
 </div>
 
 <div align="center">
