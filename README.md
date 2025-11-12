@@ -1,170 +1,117 @@
-<!--
-  ⭐ README for: Usama Shaikh — Backend PHP Developer
-  Notes:
-  1) Your username is already set to `shaikh-usama`.
-  2) The sections below use GitHub-safe HTML and popular dynamic cards.
--->
+<!-- GitHub Profile README for shaikh-usama -->
+<!-- Designed with modern UI/UX principles: Clean layout, animations, responsive elements, and engaging visuals -->
 
-<!-- Hero -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00E7FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Usama+Shaikh;Backend+PHP+Developer;Scalable+APIs+%7C+Microservices+%7C+DB+Performance" alt="Typing animation: Usama Shaikh">
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D4FF&width=600&lines=Hello+World!+🌍;I'm+Usama+Shaikh.;Backend+PHP+Developer;Crafting+Scalable+Solutions" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Backend Developer Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shaikh-usama.shaikh-usama" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shaikh-usama?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/shaikh-usama?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Coding GIF" style="border-radius: 50%; border: 3px solid #00D4FF;" />
+</div>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno3Z3BrMjYxZjhld3gyOGpmeXY1ZXEwdTN4OXZwY3dtY2R2aGt0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="520" alt="Backend coding GIF">
+  <strong>Backend Specialist | PHP Enthusiast | Scalable Systems Builder</strong>
 </p>
 
-<!-- Gradient divider -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Color divider">
-</picture>
-
-<!-- Quick meta badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-0A1A2F?style=flat&labelColor=111&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-REST%20%7C%20GraphQL-0A1A2F?style=flat&labelColor=111" />
-  <img src="https://img.shields.io/badge/Containers-Docker-0A1A2F?style=flat&labelColor=111&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Deploy%20%26%20Scale-0A1A2F?style=flat&labelColor=111" />
-</p>
+- 🔧 **Expertise:** Building robust, high-performance backend systems with a focus on efficiency and scalability.
+- 🔭 **Currently Working On:** [WebHR](https://web.hr/), [GoToCampus](https://gotocampus.com/), [HireSide](https://hireside.com/) – Revolutionizing HR, education, and hiring platforms.
+- 🌱 **Learning Journey:** Deep diving into System Design, Microservices, and optimizing large-scale databases for lightning-fast performance.
+- 👯 **Collaborations:** Open to backend projects involving API development, microservices, and cloud integrations.
+- 💬 **Tech Talks:** Ask me about PHP, Laravel, Docker, Node.js, database optimization, or turning slow APIs into speed demons!
+- ⚡ **Fun Fact:** I turn coffee ☕ into code and slow systems into blazing-fast architectures. Also, I can debug code while juggling – metaphorically, of course!
 
 ---
 
-## 🌟 About Me
+## 📊 GitHub Stats & Insights
 
-- 🔧 **Backend Specialist:** I design and build scalable, high-performance services and APIs.
-- 🔭 **Current work:** [WebHR](https://web.hr/), [GoToCampus](https://gotocampus.com/), [HireSide](https://hireside.com/).
-- 🌱 **Learning:** System design, microservices, and large-scale DB optimization.
-- 🤝 **Collab on:** **API development**, **microservices**, **performance tuning**.
-- 💬 **Ask me about:** PHP, Laravel, Docker, Node.js, database performance.
-- ⚡ **Fun fact:** I make slow APIs **blazing fast** ⚡ — without sacrificing clean code.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-usama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-usama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+</div>
 
----
-
-## 🚀 Highlights (at a glance)
-
-- ⏱️ **Response times** shaved from seconds to **double-digit ms** with caching + indexing.
-- 🧱 **Resilient architecture** using queues, retries, and circuit breakers.
-- 🧮 **Data at scale**: optimized queries, partitioning, and Redis-backed caching.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-usama&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak" width="80%" />
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Skills & Technologies
 
-### 🌐 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🌐 **Programming Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=323330" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=3670A0" alt="Python" />
+</div>
 
-### ⚙️ Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+### ⚙️ **Frameworks & Libraries**
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=000000" alt="Express.js" />
+</div>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+### 🗄️ **Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white&color=DD0031" alt="Redis" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&color=008CC1" alt="Neo4j" />
+</div>
 
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 🧩 Featured Projects
-
-> A few things representative of my backend focus. (DM me for private repos.)
-
-| Project | What I Built | Stack |
-| --- | --- | --- |
-| **WebHR** | HR modules, secure APIs, performance tuning | Laravel, MySQL, Redis, Docker |
-| **GoToCampus** | Campus services APIs & integrations | Node.js, Express, MongoDB |
-| **HireSide** | Hiring pipelines, webhooks, data sync | Laravel, MySQL, Redis |
-
----
-
-## 📈 GitHub Stats (auto-dark mode)
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shaikh-usama&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=shaikh-usama&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  </picture>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-usama&layout=compact&hide_border=true&theme=tokyonight">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-usama&layout=compact&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shaikh-usama&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaikh-usama&show_icons=true&hide_border=true&count_private=true">
-  </picture>
-</p>
-
----
-
-## 🧪 “Backend Craft” — Mini Demos
-
-<details>
-<summary><b>⚡ Latency-first API checklist</b></summary>
-
-- Slim controllers, fat services  
-- Cache where it hurts (Redis, tags/invalidations)  
-- N+1 guardrails (eager loading, EXPLAIN plans)  
-- Idempotency keys for external calls  
-- Observability: logs, traces, SLOs, budgets
-</details>
-
-<details>
-<summary><b>🧯 Resilience patterns I use</b></summary>
-
-- Retries with jitter • Circuit breakers • Bulkheads  
-- Dead-letter queues • Backoff strategies  
-- Graceful degradation & feature flags
-</details>
+### 🛠️ **Tools & Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&color=0052CC" alt="Jira" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://facebook.com/people/Osama-Shaikh/pfbid0UFoz9FnFB37UGbM6obPK5KeP5F4riaVCeJrcDHpJg3vYx3ubUyGEhn9DAJqNdQ1Jl/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/osama-sheikh1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://codepen.io/Osama-sheikh-the-reactor/" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&color=000000" alt="CodePen" />
   </a>
-</p>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
+  </a>
+</div>
 
 ---
 
-## 🎯 Contact
-
-- 📫 Reach me here on GitHub or LinkedIn.
-- 💼 Open to backend roles, consulting, and collaboration on distributed systems.
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Waving Hand" />
+  <p><strong>Thanks for visiting! Let's build something amazing together. 🚀</strong></p>
+  <p><em>Keep coding, stay curious, and never stop learning!</em></p>
+</div>
 
 ---
 
-<p align="center" style="display:flex;gap:8px;align-items:center;justify-content:center;">
-  <span>Until next time, keep coding and stay awesome!&nbsp;</span>
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="40" height="40" alt="Hand waving">
-</p>
-
-<!-- Optional: Contribution snake (requires a simple GitHub Action). 
-     After you set up the workflow from Platane/snk, uncomment the line below. -->
-<!-- <img src="https://raw.githubusercontent.com/shaikh-usama/shaikh-usama/output/snake.svg" alt="snake animation" /> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</div>
